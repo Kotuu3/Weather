@@ -17,11 +17,6 @@ city = "City,COUNTRY"
 lang = "en"
 
 ```
-Then 
-```bash
-sudo chmod +x weather.py
-sudo cp weather.py /usr/local/bin/weather
-```
 Also you can change displayed text on the bottom 
 
 ```py
@@ -31,6 +26,13 @@ messages = [
     "Hey! What's up? :3",
     "Have a good day!"
 ]
+```
+
+
+Then 
+```bash
+sudo chmod +x weather.py
+sudo cp weather.py /usr/local/bin/weather
 ```
 
 
