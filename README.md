@@ -22,7 +22,16 @@ Then
 sudo chmod +x weather.py
 sudo cp weather.py /usr/local/bin/weather
 ```
+Also you can change displayed text on the bottom 
 
+```py
+#Custom messages showed under forecast
+messages = [
+    "Stay Hydrated!",
+    "Hey! What's up? :3",
+    "Have a good day!"
+]
+```
 
 
 ### Screenshot
