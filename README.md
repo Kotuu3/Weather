@@ -11,7 +11,7 @@ WARNING! remember to activate your account after registration and you will need 
 ### Installation
 Clone git repo
 ```bash
-git clone https://github.com/Kotuu3/Weather.gits
+git clone https://github.com/Kotuu3/Weather.git
 cd Weather
 ```
 IMPORTANT - Edit python file and change variables
