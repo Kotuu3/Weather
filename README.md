@@ -1,5 +1,12 @@
 # Weather
 Customizable weather terminal python script 
+
+### OpenWeatherMap api is needed 
+To obtain it you need to make account on https://openweathermap.org/
+Then you need to head to https://home.openweathermap.org/api_keys
+And generate API key
+
+
 ### Installation
 Clone git repo
 ```bash
