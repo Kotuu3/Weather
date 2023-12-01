@@ -5,6 +5,7 @@ Customizable weather terminal python script
 To obtain it you need to make account on https://openweathermap.org/
 Then you need to head to https://home.openweathermap.org/api_keys
 And generate API key
+WARNING! remember to activate your account after registration and you will need to wait a bit for api key to work!
 
 
 ### Installation
