@@ -45,3 +45,8 @@ sudo cp weather.py /usr/local/bin/weather
 
 ### Screenshot
 ![alt text](https://github.com/Kotuu3/Weather/blob/main/image.png?raw=true)
+PS. you will just have to type
+```bash
+weather
+```
+in terminal for this to work!
